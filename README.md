@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&section=header&fontColor=000000&text=BoNa's%20repository%20%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&section=header&fontColor=000000&text=BoNa's%20repository)
 
 ## 👀 About Me
-#### :raising_hand: I am an university student from South Korea.<br/>
+#### :raised_hands: I am an university student from South Korea.
 #### :school: software convergence, Yeungnam University
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BoNa&theme=ambient-gradient)](https://git.io/streak-stats)
