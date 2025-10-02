@@ -2,7 +2,7 @@
 
 ## 👀 About Me
 #### :spiral_notepad: Name: Oh BoNa
-#### :cake: Birthday: 2005.08.04
+#### :cake: Birthday: Aug 4, 2005
 #### :raised_hands: Job: I am an university student from South Korea.
 #### :school: Major: software convergence, Yeungnam University
 
