@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&section=header&fontColor=000000&text=BoNa's%20repository)
-
-
-
-
+\n\n\n\n
 ## 👀 About Me
 #### :raised_hands: I am an university student from South Korea.
 #### :school: software convergence, Yeungnam University
